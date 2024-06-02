@@ -1,0 +1,5 @@
+transformers
+streamlit
+tensorflow
+tensorflow-cpu
+tf-keras
